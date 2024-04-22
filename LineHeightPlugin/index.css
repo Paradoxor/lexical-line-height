@@ -1,0 +1,17 @@
+.line-height-input {
+  font-size: 14px;
+  color: #777;
+  border-radius: 5px;
+  border-color: #777;
+  height: 21px;
+  margin: 0;
+  display: inline-flex;
+  align-self: center;
+  padding: 2px 4px;
+  text-align: center;
+  width: 30px;
+}
+
+.icon.line-height {
+  background-image: url(./line-height.svg);
+}
